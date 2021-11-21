@@ -1,2 +1,2 @@
 # javaPractice
-here we work on java basics
+Here we work on java from Basics to pro level.
